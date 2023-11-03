@@ -30,3 +30,5 @@ Si vous souhaitez contribuer à ce projet, vous pouvez le faire en suivant ces �
 1. Clonez le référentiel : `git clone https://github.com/3pacc/rock-paper-scissors.git`
 2. Apportez les modifications nécessaires.
 3. Créez une demande d'extraction (pull request) pour proposer vos modifications.
+
+Amusez vous bien ! 
